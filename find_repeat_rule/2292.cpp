@@ -18,6 +18,7 @@ int main()
 		index += distance * 6;
 		distance++;
 	}
+
 	cout << distance;
 	return 0;
 }
